@@ -1,0 +1,40 @@
+@media(min-width:576px)
+{
+  .header{
+    width: 1349px;
+    height: 88px;
+  }
+  .contain{
+    width: 1376px; 
+  }
+
+}
+  @media(max-width:576px)
+{
+  .header{
+    width:1349px;
+    height: 88px;
+  }
+   .contain{
+    width:1349px;
+  }
+  .contain .left{
+      width:248.4px;
+  }
+  .contain .righ{
+      width:993.6px;
+  }
+  .right-content .social{
+      width: 273px;
+  }
+  .social .social-top{
+      width: 261px;
+  }
+    .social .social-content{
+         width: 273px;
+}
+    .social .social-footer{
+      width: 261px;
+  }
+  
+}
