@@ -114,7 +114,9 @@ a{
 }
 .active{
     color: #1e70f5;
-    text-transform:capitalize;
+}
+.discover>span{
+    text-transform:uppercase;
 }
 .contain .right{
     height: 100%;
